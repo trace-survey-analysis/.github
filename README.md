@@ -56,7 +56,7 @@ This enables institutions to transform raw survey data into actionable insights 
 
 ## System Architecture
 
-![askTRACE System Architecture](https://github.com/cyse7125-sp25-team03/.github/blob/main/askTRACE-architecture.png)
+![askTRACE System Architecture](https://github.com/trace-survey-analysis/.github/blob/main/images/asktrace-architecture.png)
 
 The askTRACE Insight Platform consists of several interconnected components:
 
@@ -115,24 +115,22 @@ The askTRACE Insight Platform consists of several interconnected components:
 | [infra-jenkins](https://github.com/cyse7125-sp25-team03/infra-jenkins.git) | Infrastructure as code for Jenkins CI/CD server |
 | [ami-jenkins](https://github.com/cyse7125-sp25-team03/ami-jenkins.git) | Packer templates for building Jenkins AMI |
 
-<!--
 ## Screenshots & Demos
 
-### Web Application
-![Web Dashboard](screenshots/dashboard.png)
+### AI-Powered Interface
+![AI Model](https://github.com/trace-survey-analysis/.github/blob/main/images/asktrace-ai.png)
 
-### Course Management
-![Course Management](screenshots/course-management.png)
+### Instructors View
+![Instructors Screen](https://github.com/trace-survey-analysis/.github/blob/main/images/asktrace-instructors.png)
 
-### PDF Processing
-![PDF Processing](screenshots/pdf-processing.png)
+### Courses View
+![Courses Screen](https://github.com/trace-survey-analysis/.github/blob/main/images/asktrace-courses.png)
 
-### Natural Language Query Interface
-![Query Interface](screenshots/query-interface.png)
+### Trace File Management
+![Traces Screen](https://github.com/trace-survey-analysis/.github/blob/main/images/asktrace-traces.png)
 
 ### Video Demo
-[![Video Demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
--->
+[![Video Demo](https://img.youtube.com/vi/VntctukuTwA/0.jpg)](https://www.youtube.com/watch?v=VntctukuTwA)
 
 ## Technologies Used
 
